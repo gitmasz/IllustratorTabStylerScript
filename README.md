@@ -13,6 +13,6 @@ If you place the script in another location on the hard disk, you can run the sc
 WARNING: script will work only if you previously create character style and name it "Tag" and only for selected text field which contains at least one tab character.
 
 ### Script usage preview
-You can find in this repository an AI file named "script-test.ai" created in Adobe Illustator CS6 witch wchih you can quicly test how it works. Below I presented you screenshot previewing before after script usage for this test file.
+In this repository you will find an AI file called “script-test.ai” created in Adobe Illustrator CS6, with which you can quickly test how it works. Below I have provided a preview screenshot of before and after using the script for this test file.
 
 ![Illustrator Tab Styler Script - preview](https://github.com/gitmasz/IllustratorTabStylerScript/blob/master/preview.png?raw=true)
